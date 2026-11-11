@@ -92,7 +92,7 @@
 ## Draft status tracker
 | Topic range | Chinese drafts | English drafts | Status |
 |---|---:|---:|---|
-| 1–5 | 0/5 | 0/5 | Planned |
+| 1–5 | 2/5 | 2/5 | Drafting — topics 1–2 written; topics 3–5 pending |
 | 6–10 | 0/5 | 0/5 | Planned |
 | 11–15 | 0/5 | 0/5 | Planned |
 | 16–20 | 0/5 | 0/5 | Planned |
