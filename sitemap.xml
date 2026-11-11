@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://blog.cbpayments.cc/</loc></url>
-  <url><loc>https://blog.cbpayments.cc/blog/</loc></url>
-  <url><loc>https://blog.cbpayments.cc/blog/what-is-crypto-payment/</loc></url>
+  <url><loc>https://blog.cbpayments.cc/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://blog.cbpayments.cc/blog/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://blog.cbpayments.cc/blog/what-is-crypto-payment/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://blog.cbpayments.cc/about/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://blog.cbpayments.cc/editorial-policy/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://blog.cbpayments.cc/disclaimer/</loc><lastmod>2026-11-11</lastmod></url>
 </urlset>
